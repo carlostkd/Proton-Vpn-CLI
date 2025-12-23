@@ -108,6 +108,7 @@ Contributions, issues, and feature requests are welcome.
 If Proton deprecated the API once, they might do it again —  
 so let’s make this one better. 😉
 
+Contact for colaboration/issues  -- Threema: *0001337
 ---
 
 ## ⭐ Support the Project
