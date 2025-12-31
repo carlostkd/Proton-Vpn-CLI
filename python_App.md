@@ -2,6 +2,8 @@
 
 [Download](https://carlostkd.ch/proton/download.php)
 
+![Screenshoot](Gui_app.png)
+
 ## Prerequisites
 
 - Python 3.7 or higher
